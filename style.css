@@ -51,11 +51,13 @@ p {
   font-size: 16px;
 }
 
+/*Fixed the image directory source here*/
+
 .hero {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-image: url("C:/Users/clowr/Desktop/Random/Images for GT Class/Homework-1/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -170,8 +172,10 @@ p {
   max-height: 200px;
 }
 
+/*Had to expand the sizing here to 212px to match with the sizes of the 2 previous images*/
+
 .social-media-marketing img {
-  max-height: 200px;
+  max-height: 212px;
 }
 
 .search-engine-optimization h2 {
